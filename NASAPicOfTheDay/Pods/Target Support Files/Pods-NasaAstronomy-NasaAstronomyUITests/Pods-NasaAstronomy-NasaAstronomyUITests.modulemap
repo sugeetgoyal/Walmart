@@ -1,0 +1,6 @@
+module Pods_NasaAstronomy_NasaAstronomyUITests {
+  umbrella header "Pods-NasaAstronomy-NasaAstronomyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
